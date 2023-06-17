@@ -11,7 +11,7 @@ N/A
 
 ## Usage
 
-A landing page for Horiseon's marketing materials.
+A landing page for Horiseon's marketing materials. The preview we are to match is as follows.
 
 ![website's appearance and functionality preview](./Develop/assets/images/screenshot.png)
 
